@@ -4,4 +4,7 @@
 ![Screenshot of the game](screen07.jpg)
 ![Screenshot of the game](screen02.jpg)
 ![Screenshot of the game](screen05.jpg)
+![Screenshot of the game](screen03.jpg)
+![Screenshot of the game](screen04.jpg)
+![Screenshot of the game](screen06.jpg)
 ### See the demo video on: https://www.youtube.com/watch?v=JYzqruEoNwI
